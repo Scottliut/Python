@@ -9,3 +9,4 @@ y=5
 print (x+y)
 b=x*10
 c=b
+b=15
