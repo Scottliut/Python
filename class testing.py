@@ -7,3 +7,4 @@ This is a temporary script file.
 x=5
 y=5
 print (x+y)
+b=x*10
